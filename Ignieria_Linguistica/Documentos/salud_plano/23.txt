@@ -1,0 +1,75 @@
+
+
+ESPAÑA SE CONVERTIRÁ EN REFERENTE INTERNACIONAL EN EL CONTROL DE DOSIS DE RADIACIÓN MÉDICA
+
+
+El INSTITUTO NACIONAL DE GESTIÓN SANITARIA (INGESA), a través del Centro
+Nacional de Dosimetría (CND), se encuentra trabajando en un proyecto que
+convertirá la sanidad española en REFERENTE INTERNACIONAL DE
+RECOPILACIÓN, GESTIÓN Y CONTROL DE DOSIS DE RADIACIÓN MÉDICA. Se trata
+de la creación de un BANCO NACIONAL DE DOSIS A PACIENTES (BNDP) para el
+conjunto del Sistema Nacional de Salud. Este BNDP posibilitará
+RECOPILAR, UNIFICAR Y MONITORIZAR TODA LA INFORMACIÓN REFERENTE A
+INTERVENCIONES RADIOLÓGICAS.
+
+El proyecto permitirá crear un REGISTRO CLÍNICO que contenga TODOS LOS
+DATOS RELEVANTES SOBRE LA EXPOSICIÓN A LA RADIACIÓN EN PRUEBAS MÉDICAS,
+que reciben los pacientes del Sistema Nacional de Salud. Esta
+información estará disponible tanto para los profesionales sanitarios
+como para los pacientes, que podrán consultar su registro histórico.
+Otra de las grandes ventajas es que contribuirá a ESTABLECER, COMPARAR Y
+APLICAR LOS NIVELES DE REFERENCIA PARA LAS DIFERENTES PRUEBAS MÉDICAS,
+EQUIPOS Y TERRITORIOS, los cuales son una herramienta fundamental para
+optimizar las dosis de radiación que reciben los pacientes. Actualmente,
+no existe un CONTROL GENERAL INFORMATIZADO DEL NÚMERO Y CANTIDAD DE
+DOSIS QUE RECIBEN los pacientes.
+
+El BNDP será una plataforma digital que usará _MACHINE LEARNING_ Y
+_BUSINESS INTELLIGENCE_ para analizar los datos de las sesiones de
+radiación que cada individuo recibe a lo largo de su vida. Estas
+herramientas facilitarán el trabajo de los profesionales en su actividad
+diaria. Además, el repositorio anonimizado de datos servirá tanto a
+facultativos, como a la COMUNIDAD CIENTÍFICA INTERNACIONAL, para
+descubrir la generación de patrones ocultos y asociaciones complejas,
+detectar sobreexposición a la radiación, y relacionarla con problemas
+derivados, de manera inteligente.
+
+Bajo el marco de la directiva europea EURATOM 2013/59, la creación de
+este banco de dosis a pacientes PARA EL CONJUNTO DEL SISTEMA NACIONAL DE
+SALUD, el cual se encuentra en estos momentos en fase de diseño,
+“_tendría una aplicabilidad SIN PRECEDENTES, puesto que no existe en el
+campo de la salud un sistema de almacenaje y explotación de información
+radiológica unificada que abarque, de manera general, las muestras de un
+país_”, enfatizó Juan Catret, coordinador del proyecto.
+
+El Banco Nacional de Dosis a Pacientes está siendo definido y diseñado
+por la multinacional Izertis, ganadora del concurso de licitación,
+conocida por liderar iniciativas tecnológicas de organismos como el
+Banco Mundial o la Agencia Europea de Defensa. Junto a ella, compartirá
+el despliegue de este proyecto su socia GE Healthcare, empresa con
+amplia experiencia en proyectos de análisis de datos en el entorno
+sanitario a nivel internacional, y especialmente en sistemas de gestión
+y control de dosis.
+
+La generalización del uso de nuevas modalidades de diagnóstico por
+imagen en radiología y medicina nuclear (un 80% de los diagnósticos
+clínicos en España se basan en imágenes), la mejora de las técnicas de
+radioterapia y radiología intervencionista, así como el acceso cada vez
+mayor de la población a estos servicios de diagnóstico y tratamiento,
+han incrementado las exposiciones a radiaciones ionizantes hasta el
+punto de que más del 90% de las dosis recibidas de fuentes artificiales
+proceden de usos médicos. Entre ellas, las más frecuentes serían las
+modalidades de TC, MAMOGRAFÍA, RADIOLOGÍA INTERVENCIONISTA Y RADIOLOGÍA
+CONVENCIONAL, O MEDICINA NUCLEAR, entre otras.
+
+
+RETO INTERTERRITORIAL
+
+“_El reto de la movilidad de los ciudadanos hace necesaria la
+implantación de un sistema que facilite la extensión territorial de
+dichas funcionalidades al conjunto del Sistema Nacional de Salud, y
+permita a los profesionales disponer de la información precisa cuando
+las necesidades de atención sanitaria se producen fuera de la Comunidad
+Autónoma en la que se ha generado esta información_”, afirmó María
+Gracia, Radiofísica Hospitalaria responsable del apartado de Física
+Médica del proyecto.
